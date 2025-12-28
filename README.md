@@ -25,15 +25,15 @@ KELAS   : TI.25 C.5
   3. Kemudian, Kode merupakan inputan untuk pemilihan operasi mana yang akan digunakan.
 <br><br>
 
-<img src="https://github.com/aramli/labpy07/raw/main/img/6.png" width="850"/><br>
+<img src="https://github.com/aramli/labpy08/raw/main/img/6.png" width="850"/><br>
   4. Lalu, kode meurupakan pengondisian dari operasi yang di pilih. try-except ZeroDivisionError digunakan agar program tidak crash saat pembagian dengan nol.raise Exception digunakan untuk menampilkan pesan error kustom jika operator tidak valid.
 <br><br>
 
-<img src="https://github.com/aramli/labpy07/raw/main/img/7.png" width="850"/><br>
+<img src="https://github.com/aramli/labpy08/raw/main/img/7.png" width="850"/><br>
   5. Lalu, Jika operasi berhasil maka akan menampilkan hasil perhitungan ke layar.
 <br><br>
 
-<img src="https://github.com/aramli/labpy07/raw/main/img/8.png" width="850"/><br>
+<img src="https://github.com/aramli/labpy08/raw/main/img/8.png" width="850"/><br>
   6. Terakhir, Jika ada error lain (misalnya operator tidak valid), program akan menampilkan pesan error sesuai masalahnya.
 <br><br>
 
